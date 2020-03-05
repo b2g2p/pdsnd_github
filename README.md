@@ -18,6 +18,9 @@ Start Station (e.g., Broadway & Barry Ave)
 End Station (e.g., Sedgwick St & North Ave)
 User Type (Subscriber or Customer)
 
+## Statistics Computed
+Descriptive Statistics on areas such as popular time of travel, popular station and trips and trip Duration
+
 ### Files used
 Data files such as chicago.csv, new_york_city.csv, washington.csv
 
