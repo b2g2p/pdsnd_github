@@ -11,7 +11,7 @@ def get_filters():
     months = ['January', 'February', 'March', 'April', 'May', 'June', 'All']
     days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday', 'All']
 
-    print('Hello! Let\'s explore some US bikeshare data!')
+    print('Hello! Let\'s explore some US bikeshare data today!')
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
 
 
@@ -201,7 +201,7 @@ def disp_data(df):
 
     while True:
 
-        raw_data = input("Would you like to see 5 rows of data?\nPlease select yes or no.").lower()
+        raw_data = input("Would you like to see five rows of data?\nPlease select yes or no.").lower()
 
         if raw_data == 'yes':
 
