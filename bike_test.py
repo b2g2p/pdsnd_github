@@ -201,7 +201,7 @@ def disp_data(df):
 
     while True:
 
-        raw_data = input("Would you like to see 5 rows of data?\nPlease select yes or no.").lower()
+        raw_data = input("Would you like to see five rows of data?\nPlease select yes or no.").lower()
 
         if raw_data == 'yes':
 
